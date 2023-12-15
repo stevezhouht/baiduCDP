@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:46:38.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yOgoSrz5gSAl7IJt2Mje" version="22.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-15T03:47:29.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="r9kflEqiAi_Vh0hsmKz4" version="22.1.9" type="github" pages="5">
   <diagram name="1.内容保存" id="IRyI0qfTR5pbfn_mzIuA">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,17 +417,11 @@
         <mxCell id="JZrSUIWBarf6easwaGKK-11" value="提取RssId" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JZrSUIWBarf6easwaGKK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZrSUIWBarf6easwaGKK-13" target="JZrSUIWBarf6easwaGKK-15">
+        <mxCell id="JIDdRWlgIThrocUNknY2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZrSUIWBarf6easwaGKK-13" target="JZrSUIWBarf6easwaGKK-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZrSUIWBarf6easwaGKK-13" value="组装z_launcher_item" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="41" y="1650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JZrSUIWBarf6easwaGKK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZrSUIWBarf6easwaGKK-15" target="JZrSUIWBarf6easwaGKK-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JZrSUIWBarf6easwaGKK-15" value="处理源语言" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="191" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZrSUIWBarf6easwaGKK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZrSUIWBarf6easwaGKK-17" target="JZrSUIWBarf6easwaGKK-19">
           <mxGeometry relative="1" as="geometry" />
