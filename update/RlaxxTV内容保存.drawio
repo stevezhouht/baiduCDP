@@ -1,181 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:03:08.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZXMUAdhH7BtU7I7Ll1-z" version="22.1.9" type="github" pages="2">
-  <diagram name="第 1 页" id="IRyI0qfTR5pbfn_mzIuA">
+<mxfile host="app.diagrams.net" modified="2023-12-15T03:13:11.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Dvp-6ShocUINTXZ70VFS" version="22.1.9" type="github" pages="4">
+  <diagram name="1.内容保存" id="IRyI0qfTR5pbfn_mzIuA">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-2" value="&lt;h1&gt;RlaxxTV 内容保存&lt;/h1&gt;&lt;p&gt;EPISODE及关联的SERIES, SEASON入库&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-2" value="&lt;h1&gt;RlaxxTV 内容保存&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="10" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-3" value="新增Episode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-4" value="修改Episode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-7" target="hS1OXOlbxlRcdLpgtcnR-8">
+        <mxCell id="LwhM_ml0XGxY6FxhYdX4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwhM_ml0XGxY6FxhYdX4-1" target="LwhM_ml0XGxY6FxhYdX4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-9">
-          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+        <mxCell id="5rLwDc457-ZEm2vASGze-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LwhM_ml0XGxY6FxhYdX4-3">
+          <mxGeometry x="-0.0444" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-7" target="hS1OXOlbxlRcdLpgtcnR-14">
+        <mxCell id="LwhM_ml0XGxY6FxhYdX4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwhM_ml0XGxY6FxhYdX4-1" target="LwhM_ml0XGxY6FxhYdX4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-15">
-          <mxGeometry x="-0.28" relative="1" as="geometry">
+        <mxCell id="5rLwDc457-ZEm2vASGze-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LwhM_ml0XGxY6FxhYdX4-5">
+          <mxGeometry x="-0.0087" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-7" value="已有Series" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="LwhM_ml0XGxY6FxhYdX4-1" value="内容id为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-8" value="新增Series/Season,标题，限制国家，es" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-14" target="hS1OXOlbxlRcdLpgtcnR-16">
+        <mxCell id="5rLwDc457-ZEm2vASGze-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwhM_ml0XGxY6FxhYdX4-2" target="5rLwDc457-ZEm2vASGze-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-17">
-          <mxGeometry y="3" relative="1" as="geometry">
+        <mxCell id="LwhM_ml0XGxY6FxhYdX4-2" value="新增内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwhM_ml0XGxY6FxhYdX4-4" target="5rLwDc457-ZEm2vASGze-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LwhM_ml0XGxY6FxhYdX4-4" value="修改内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5rLwDc457-ZEm2vASGze-3" target="5rLwDc457-ZEm2vASGze-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-3" value="根据sourceId+ 内容源id获取内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5rLwDc457-ZEm2vASGze-5" target="5rLwDc457-ZEm2vASGze-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5rLwDc457-ZEm2vASGze-11">
+          <mxGeometry x="-0.3111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-14" target="hS1OXOlbxlRcdLpgtcnR-89">
+        <mxCell id="5rLwDc457-ZEm2vASGze-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5rLwDc457-ZEm2vASGze-5" target="5rLwDc457-ZEm2vASGze-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-92" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-90">
-          <mxGeometry x="-0.1667" y="-2" relative="1" as="geometry">
+        <mxCell id="5rLwDc457-ZEm2vASGze-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5rLwDc457-ZEm2vASGze-16">
+          <mxGeometry x="0.1" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-14" value="Series源语言有变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="5rLwDc457-ZEm2vASGze-5" value="内容已存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-16" target="hS1OXOlbxlRcdLpgtcnR-23">
+        <mxCell id="5rLwDc457-ZEm2vASGze-10" value="抛出异常：内容已存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-15" value="开始新增内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5rLwDc457-ZEm2vASGze-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5rLwDc457-ZEm2vASGze-18" target="5rLwDc457-ZEm2vASGze-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-16" value="修改series源语言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-23" target="hS1OXOlbxlRcdLpgtcnR-25">
+        <mxCell id="5rLwDc457-ZEm2vASGze-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5rLwDc457-ZEm2vASGze-18" target="5rLwDc457-ZEm2vASGze-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-23" value="删除旧语言的ang表，rc_*_series" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="5rLwDc457-ZEm2vASGze-18" value="内容有变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-25" target="hS1OXOlbxlRcdLpgtcnR-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5rLwDc457-ZEm2vASGze-20" value="开始修改内容" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-25" value="新增SERIES的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-27" target="hS1OXOlbxlRcdLpgtcnR-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-27" value="新增ES索引rc_*_series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-32" target="hS1OXOlbxlRcdLpgtcnR-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-32" value="修改season源语言，源标题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1301" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-34" target="hS1OXOlbxlRcdLpgtcnR-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-34" value="删除旧语言的ang表，rc_*_season" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1441" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-35" target="hS1OXOlbxlRcdLpgtcnR-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-35" value="新增SEASON的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1571" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-71" target="hS1OXOlbxlRcdLpgtcnR-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-78" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-74">
-          <mxGeometry x="-0.1818" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-71" target="hS1OXOlbxlRcdLpgtcnR-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-77" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-76">
-          <mxGeometry y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-71" value="已有SEASON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1133" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-75" value="新增SEASON，标题，限制国家，es,与episode的关联关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1143" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-79" value="新增ES索引rc_*_season" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1711" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-84" target="hS1OXOlbxlRcdLpgtcnR-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-84" value="根据seasonNumber获取season源id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-89" target="hS1OXOlbxlRcdLpgtcnR-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1075" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-89" target="hS1OXOlbxlRcdLpgtcnR-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-89" value="修改season" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-93" target="hS1OXOlbxlRcdLpgtcnR-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-93" value="Series源标题有变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-95" target="hS1OXOlbxlRcdLpgtcnR-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-95" value="修改series的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-97" target="hS1OXOlbxlRcdLpgtcnR-99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-97" value="修改rc_*_series的标题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-99" target="hS1OXOlbxlRcdLpgtcnR-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-99" value="修改season的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-101" value="修改rc_*_season的标题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="5rLwDc457-ZEm2vASGze-22" value="返回内容id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="DEkNTQFhF6mnzPjFXJKZ" name="第 2 页">
+  <diagram id="LzMXCYgZ2M_yJ_JSOMAh" name="2.新增内容">
+    <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DEkNTQFhF6mnzPjFXJKZ" name="3.新增EPISODE">
     <mxGraphModel dx="1848" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -353,6 +273,189 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h5SS9oxTkdwtblPTa-et-40" value="根据seasonNumber获取Season源id" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="4.修改EPISODE" id="CWajsPA6hkMXPd1x1exk">
+    <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Iap--OREMNl90PnM8t0s-0" />
+        <mxCell id="Iap--OREMNl90PnM8t0s-1" parent="Iap--OREMNl90PnM8t0s-0" />
+        <mxCell id="Iap--OREMNl90PnM8t0s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-4" target="Iap--OREMNl90PnM8t0s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-4" target="Iap--OREMNl90PnM8t0s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-4" value="处理Series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-7" target="Iap--OREMNl90PnM8t0s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-7" target="Iap--OREMNl90PnM8t0s-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-7" value="处理Season" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-8" value="修改episode与season关联表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="690" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-13" target="Iap--OREMNl90PnM8t0s-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-9">
+          <mxGeometry x="-0.2624" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-13" target="Iap--OREMNl90PnM8t0s-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-11">
+          <mxGeometry x="-0.2903" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-13" value="Series已存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="300" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-15" target="Iap--OREMNl90PnM8t0s-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-15" value="新增SeriesId" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-17" target="Iap--OREMNl90PnM8t0s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-17" value="修改EPISODE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-20" target="Iap--OREMNl90PnM8t0s-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-18">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-20" value="Series语言有变化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="300" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-22" target="Iap--OREMNl90PnM8t0s-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-22" value="删除series的lang表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-24" target="Iap--OREMNl90PnM8t0s-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-24" value="删除rc_*_series" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="280" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-26" target="Iap--OREMNl90PnM8t0s-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-26" value="组装z_launche_series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-28" target="Iap--OREMNl90PnM8t0s-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-28" value="组装z_launcher_lang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-30" target="Iap--OREMNl90PnM8t0s-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-30" value="组装z_launcher_restriction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-31" value="组装rc_*_series" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="90" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-36" target="Iap--OREMNl90PnM8t0s-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-33" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-32">
+          <mxGeometry x="-0.2624" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-36" target="Iap--OREMNl90PnM8t0s-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-34">
+          <mxGeometry x="-0.2903" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-36" value="Season已存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="500" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-38" target="Iap--OREMNl90PnM8t0s-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-38" value="新增SeasonId" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="670" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-41" target="Iap--OREMNl90PnM8t0s-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iap--OREMNl90PnM8t0s-39">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-41" value="Season语言有变化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="500" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-43" target="Iap--OREMNl90PnM8t0s-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-43" value="删除season的lang表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="480" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-45" target="Iap--OREMNl90PnM8t0s-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-45" value="删除rc_*_season" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-47" target="Iap--OREMNl90PnM8t0s-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-47" value="组装z_launche_season" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="670" y="789" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-49" target="Iap--OREMNl90PnM8t0s-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-49" value="组装z_launcher_lang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="670" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-51" target="Iap--OREMNl90PnM8t0s-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-51" value="组装z_launcher_restriction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="670" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-52" value="组装rc_*_season" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
+          <mxGeometry x="670" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Iap--OREMNl90PnM8t0s-1" source="Iap--OREMNl90PnM8t0s-54" target="Iap--OREMNl90PnM8t0s-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iap--OREMNl90PnM8t0s-54" value="根据seasonNumber获取Season源id" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Iap--OREMNl90PnM8t0s-1">
           <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
