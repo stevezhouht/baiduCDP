@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T01:33:13.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wVTny4vRhyhF6RWUqdl8" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T01:35:25.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HEjc1R8A1XFur-Hvokuq" version="22.1.9" type="github">
   <diagram name="第 1 页" id="IRyI0qfTR5pbfn_mzIuA">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,11 +71,23 @@
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-23" target="hS1OXOlbxlRcdLpgtcnR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-23" value="新增lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-23" value="删除旧语言的ang表，rc_*_series ???" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-25" value="新增ES索引rc_*_series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-25" target="hS1OXOlbxlRcdLpgtcnR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-25" value="新增lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-27" target="hS1OXOlbxlRcdLpgtcnR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-27" value="新增ES索引rc_*_series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-30" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
