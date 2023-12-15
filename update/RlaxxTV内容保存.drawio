@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:40:22.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="B3MllNgVCPBER8zmIhMj" version="22.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-15T03:42:06.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="n_z-c3lIBEmk30xgqcrC" version="22.1.9" type="github" pages="5">
   <diagram name="1.内容保存" id="IRyI0qfTR5pbfn_mzIuA">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,6 +208,184 @@
         </mxCell>
         <mxCell id="xogt0kgyZUSHO5IbddaN-76" value="开始操作数据库和ES" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1501" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-3" target="FKwac9EWNF57oJApBUb9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-3" target="FKwac9EWNF57oJApBUb9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-3" value="处理Series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-6" target="FKwac9EWNF57oJApBUb9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-6" target="FKwac9EWNF57oJApBUb9-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-6" value="处理Season" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-7" value="新增episode与season关联表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-12" target="FKwac9EWNF57oJApBUb9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-9" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-8">
+          <mxGeometry x="-0.2624" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-12" target="FKwac9EWNF57oJApBUb9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-10">
+          <mxGeometry x="-0.2903" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-12" value="Series已存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-14" target="FKwac9EWNF57oJApBUb9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-14" value="新增SeriesId" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-16" target="FKwac9EWNF57oJApBUb9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-16" value="新增EPISODE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-19" target="FKwac9EWNF57oJApBUb9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-17">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-19" value="Series语言有变化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-21" target="FKwac9EWNF57oJApBUb9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-21" value="删除series的lang表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-23" target="FKwac9EWNF57oJApBUb9-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-23" value="删除rc_*_series" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-25" target="FKwac9EWNF57oJApBUb9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-25" value="组装z_launche_series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-27" target="FKwac9EWNF57oJApBUb9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-27" value="组装z_launcher_lang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-29" target="FKwac9EWNF57oJApBUb9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-29" value="组装z_launcher_restriction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-30" value="组装rc_*_series" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-35" target="FKwac9EWNF57oJApBUb9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-31">
+          <mxGeometry x="-0.2624" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-35" target="FKwac9EWNF57oJApBUb9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-34" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-33">
+          <mxGeometry x="-0.2903" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-35" value="Season已存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-37" target="FKwac9EWNF57oJApBUb9-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-37" value="新增SeasonId" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-40" target="FKwac9EWNF57oJApBUb9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-39" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FKwac9EWNF57oJApBUb9-38">
+          <mxGeometry x="-0.2258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-40" value="Season语言有变化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-42" target="FKwac9EWNF57oJApBUb9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-42" value="删除season的lang表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-44" target="FKwac9EWNF57oJApBUb9-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-44" value="删除rc_*_season" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-46" target="FKwac9EWNF57oJApBUb9-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-46" value="组装z_launche_season" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1659" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-48" target="FKwac9EWNF57oJApBUb9-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-48" value="组装z_launcher_lang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-50" target="FKwac9EWNF57oJApBUb9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-50" value="组装z_launcher_restriction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-51" value="组装rc_*_season" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKwac9EWNF57oJApBUb9-53" target="FKwac9EWNF57oJApBUb9-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-53" value="根据seasonNumber获取Season源id" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKwac9EWNF57oJApBUb9-54" value="&lt;h1&gt;新增EPISODE&lt;/h1&gt;&lt;p&gt;新增EPISODE逻辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="780" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
