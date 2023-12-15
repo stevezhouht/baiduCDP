@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T01:57:50.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="l5wsRVrJOZY_QtzFTisE" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T02:18:59.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ifTZbos_U7tydMaViVef" version="22.1.9" type="github">
   <diagram name="第 1 页" id="IRyI0qfTR5pbfn_mzIuA">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-23" target="hS1OXOlbxlRcdLpgtcnR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-23" value="删除旧语言的ang表，rc_*_series, rc_*_season ???" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-23" value="删除旧语言的ang表，rc_*_series" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-25" target="hS1OXOlbxlRcdLpgtcnR-27">
@@ -79,7 +79,7 @@
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-25" value="新增SERIES的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-27" target="hS1OXOlbxlRcdLpgtcnR-32">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-27" target="hS1OXOlbxlRcdLpgtcnR-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-27" value="新增ES索引rc_*_series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -88,20 +88,25 @@
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-32" target="hS1OXOlbxlRcdLpgtcnR-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-32" value="修改season源语言" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-32" value="修改season源语言，源标题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1218" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-34" target="hS1OXOlbxlRcdLpgtcnR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-34" value="新增SEASON的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1210" width="120" height="60" as="geometry" />
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-34" value="删除旧语言的ang表，rc_*_series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1358" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-35" value="新增ES索引rc_*_season" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-44" target="hS1OXOlbxlRcdLpgtcnR-57">
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-35" target="hS1OXOlbxlRcdLpgtcnR-79">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-35" value="新增SEASON的lang表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1488" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-44" target="hS1OXOlbxlRcdLpgtcnR-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-59" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-58">
           <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
@@ -119,35 +124,36 @@
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-44" value="已有SEASON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hS1OXOlbxlRcdLpgtcnR-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="898" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-56" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-54">
-          <mxGeometry x="0.05" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-53" value="SeriesTitle有变化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="340" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-57" target="hS1OXOlbxlRcdLpgtcnR-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-57" value="删除pisode与旧season 的关联关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-60" value="新增episode与新SEASON的关联关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hS1OXOlbxlRcdLpgtcnR-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="818" y="380" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="470" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hS1OXOlbxlRcdLpgtcnR-66" value="新增SEASON，标题，限制国家，es,与episode的关联关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-71" target="hS1OXOlbxlRcdLpgtcnR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-78" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-74">
+          <mxGeometry x="-0.1818" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hS1OXOlbxlRcdLpgtcnR-71" target="hS1OXOlbxlRcdLpgtcnR-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-77" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hS1OXOlbxlRcdLpgtcnR-76">
+          <mxGeometry y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-71" value="已有SEASON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1050" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-75" value="新增SEASON，标题，限制国家，es,与episode的关联关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hS1OXOlbxlRcdLpgtcnR-79" value="新增ES索引rc_*_season" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
