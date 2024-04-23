@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T01:25:09.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="R3wFcZaCRQGpbnuoVvqs" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T09:29:39.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="dvb5JV4M5_92eoxvFqjn" version="24.2.8" type="github">
   <diagram id="d12wuXXg2kVIV75rus-o" name="Page-1">
-    <mxGraphModel dx="1386" dy="-410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="746" dy="-690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,6 +385,42 @@
         </mxCell>
         <mxCell id="YK0Ihw7e3EjryxIXVB71-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;限制国家 与影片的关联关系存储到&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;z_launcher_restriction 表&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="4140" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-1" value="IMDB补全的字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2305" width="170" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-2" value="时长" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-3" value="发布时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-4" value="封面，海报，背景图" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-5" value="描述" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-6" value="imdb分数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-7" value="storyline" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-8" value="budget" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-9" value="revenue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-10" value="color" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-11" value="aspectRatio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="300" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc0xLI6rXjeRSVj_pMX8-12" value="person" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Jc0xLI6rXjeRSVj_pMX8-1">
+          <mxGeometry y="330" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
