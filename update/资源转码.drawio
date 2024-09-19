@@ -56,6 +56,14 @@
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-14" value="视频文件预上传" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajWyyZeo7ePxl7q6qDDl-16" target="ajWyyZeo7ePxl7q6qDDl-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="740" />
+              <mxPoint x="250" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-16" value="上传文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,6 +72,19 @@
         </mxCell>
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;资源转码流程&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-20" value="选择分辨率，是否静音，进行转码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajWyyZeo7ePxl7q6qDDl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="740" />
+              <mxPoint x="250" y="740" />
+              <mxPoint x="250" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
