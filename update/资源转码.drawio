@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="第 1 页" id="2wlSlx9r2bVHyShXd7Hb">
-    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;资源转码流程&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajWyyZeo7ePxl7q6qDDl-20" target="JTr45vchOF5X9gXBBewH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-20" value="选择分辨率，是否静音，进行转码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,6 +110,18 @@
         </mxCell>
         <mxCell id="JTr45vchOF5X9gXBBewH-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;url_id有值&lt;/h1&gt;&lt;p&gt;根据fkId查询&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;z_vod_pool表&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的url_id是否有值&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="480" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTr45vchOF5X9gXBBewH-6" target="JTr45vchOF5X9gXBBewH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-6" value="转码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;转码&lt;/h1&gt;&lt;p&gt;1.&amp;nbsp;z_transcode_url 新增记录&lt;/p&gt;&lt;p&gt;2.z_vod_transcode 新增记录&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-9" value="内容编辑" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
