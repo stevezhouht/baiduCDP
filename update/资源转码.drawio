@@ -72,7 +72,7 @@
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-16" value="上传文件" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajWyyZeo7ePxl7q6qDDl-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;上传文件&lt;/h1&gt;&lt;p&gt;1. z_launcher_url 表新增记录&lt;/p&gt;&lt;p&gt;2.z_vod_pool新增记录&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;上传文件&lt;/h1&gt;&lt;p&gt;1. z_launcher_url 表新增记录&lt;/p&gt;&lt;p&gt;2.更新z_vod_pool表的url_id,origin_mime_type&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="600" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;资源转码流程&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="JTr45vchOF5X9gXBBewH-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;内容编辑&lt;/h1&gt;&lt;p&gt;1.更新z_vod_pool表的duration_interval，app_id，channel_id&lt;/p&gt;&lt;p&gt;2.更新z_transcode_url的duration_interval，app_id，channel_id&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1010" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JTr45vchOF5X9gXBBewH-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;生成media tailor&lt;/h1&gt;&lt;p&gt;1.更新z_transcode_url的url_cdn_value_tailor,&amp;nbsp;ad_from_type&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1169" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
