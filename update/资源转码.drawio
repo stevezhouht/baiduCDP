@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="第 1 页" id="2wlSlx9r2bVHyShXd7Hb">
-    <mxGraphModel dx="786" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ajWyyZeo7ePxl7q6qDDl-4" target="ajWyyZeo7ePxl7q6qDDl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajWyyZeo7ePxl7q6qDDl-4" value="新增内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-4" value="保存内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajWyyZeo7ePxl7q6qDDl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ajWyyZeo7ePxl7q6qDDl-5" target="ajWyyZeo7ePxl7q6qDDl-10" edge="1">
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajWyyZeo7ePxl7q6qDDl-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;新增内容&lt;/h1&gt;&lt;p&gt;需要操作的Mysql表和es索引：&lt;/p&gt;&lt;p&gt;z_launcher_item&lt;/p&gt;&lt;p&gt;z_launcher_lang&lt;/p&gt;&lt;p&gt;z_launcher_category&lt;/p&gt;&lt;p&gt;z_launcher_category_fk_rel&lt;/p&gt;&lt;p&gt;z_launcher_tag&lt;/p&gt;&lt;p&gt;z_launcher_restriction&lt;/p&gt;&lt;p&gt;rc_en_item&lt;/p&gt;&lt;p&gt;tv-show 额外操作&lt;/p&gt;&lt;p&gt;z_launcher_series&lt;/p&gt;&lt;p&gt;z_launcher_season&lt;/p&gt;&lt;p&gt;z_launcher_season_item_rel&lt;/p&gt;&lt;p&gt;rc_en_series&lt;/p&gt;&lt;p&gt;rc_en_season&lt;/p&gt;&lt;p&gt;z_vod_pool&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ajWyyZeo7ePxl7q6qDDl-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;保存内容&lt;/h1&gt;&lt;p&gt;需要操作的Mysql表和es索引：&lt;/p&gt;&lt;p&gt;z_launcher_item&lt;/p&gt;&lt;p&gt;z_launcher_lang&lt;/p&gt;&lt;p&gt;z_launcher_category&lt;/p&gt;&lt;p&gt;z_launcher_category_fk_rel&lt;/p&gt;&lt;p&gt;z_launcher_tag&lt;/p&gt;&lt;p&gt;z_launcher_restriction&lt;/p&gt;&lt;p&gt;rc_en_item&lt;/p&gt;&lt;p&gt;tv-show 额外操作&lt;/p&gt;&lt;p&gt;z_launcher_series&lt;/p&gt;&lt;p&gt;z_launcher_season&lt;/p&gt;&lt;p&gt;z_launcher_season_item_rel&lt;/p&gt;&lt;p&gt;rc_en_series&lt;/p&gt;&lt;p&gt;rc_en_season&lt;/p&gt;&lt;p&gt;z_vod_pool&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="150" width="180" height="430" as="geometry" />
         </mxCell>
         <mxCell id="JTr45vchOF5X9gXBBewH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTr45vchOF5X9gXBBewH-1" target="ajWyyZeo7ePxl7q6qDDl-14">
