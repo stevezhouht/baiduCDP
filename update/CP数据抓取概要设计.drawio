@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="5">
   <diagram name="印度爬虫数据入库流程" id="3OsxAJAkr8hgpYSMkOOm">
     <mxGraphModel dx="1626" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,6 +298,102 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="207" y="887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7o6YZeT48FBTXHiymFYL" name="合作改">
+    <mxGraphModel dx="1626" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IzLclitoxD5X9KPh0BFn-1" value="Data Aggregation Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="200" height="981" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-2" value="RabbitMQ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="283" y="350" width="150" height="981" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-3" value="Data Merge Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="483" y="350" width="158" height="981" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-4" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="478" y="821" width="170" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-5" value="[内容不存在]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="IzLclitoxD5X9KPh0BFn-4">
+          <mxGeometry x="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-6" value="[部分字段变更-&#xa;]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="IzLclitoxD5X9KPh0BFn-4">
+          <mxGeometry y="133" width="170" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="109" y="589" width="549" height="647" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-8" value="[校验成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="IzLclitoxD5X9KPh0BFn-7">
+          <mxGeometry x="30" width="519" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-9" value="[校验失败]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="IzLclitoxD5X9KPh0BFn-7">
+          <mxGeometry y="554" width="549" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-10" value="编写Parser类，解析Feed URL，封装FeedItemBean" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-1" target="IzLclitoxD5X9KPh0BFn-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="457" />
+              <mxPoint x="171" y="487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-11" value="校验内容有效性" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-1" target="IzLclitoxD5X9KPh0BFn-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="539" />
+              <mxPoint x="171" y="569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-12" value="发送FeedItemBean" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-1" target="IzLclitoxD5X9KPh0BFn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="667" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-13" value="接收消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-2" target="IzLclitoxD5X9KPh0BFn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="468" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-14" value="判断内容是否存在" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-3" target="IzLclitoxD5X9KPh0BFn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="771" />
+              <mxPoint x="613" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-15" value="新增内容" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-3" target="IzLclitoxD5X9KPh0BFn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="899" />
+              <mxPoint x="613" y="929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-16" value="更新内容" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-3" target="IzLclitoxD5X9KPh0BFn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="1048" />
+              <mxPoint x="613" y="1078" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzLclitoxD5X9KPh0BFn-17" value="不发送FeedItemBean" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="IzLclitoxD5X9KPh0BFn-1" target="IzLclitoxD5X9KPh0BFn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="1216" />
             </Array>
           </mxGeometry>
         </mxCell>
