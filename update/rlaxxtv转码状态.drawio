@@ -68,6 +68,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;备注&lt;/h1&gt;&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;1. 状态 = in progress ，不能更改其他状态&amp;quot;]]],[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;2. 如果转码失败，还是可以重新点击转码，状态会再次变成in progress，转码状态=transcoding&amp;quot;]]],[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;3. 如果转码成功后，重新上传视频，状态会再次变成in progress，转码状态 = to be transcoded&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;1.&amp;nbsp;状态&amp;nbsp;=&amp;nbsp;in&amp;nbsp;progress&amp;nbsp;，不能更改其他状态&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;2.&amp;nbsp;如果转码失败，还是可以重新点击转码，状态会再次变成in&amp;nbsp;progress，转码状态=transcoding&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;3.&amp;nbsp;如果转码成功后，重新上传视频，状态会再次变成in&amp;nbsp;progress，&lt;/p&gt;&lt;p&gt;转码状态&amp;nbsp;=&amp;nbsp;to&amp;nbsp;be&amp;nbsp;transcoded&lt;/p&gt;&lt;/article&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="405" width="390" height="255" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
