@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="ta34BIN2TmMTfVDMFM-l">
-    <mxGraphModel>
+    <mxGraphModel dx="1626" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-57" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-58" value="状态 = in progress&#xa;转码状态 = To be transcoded" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="397" width="214" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-59" value="状态 = in progress&#xa;转码状态 = transcoding" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="525" width="174" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-60" value="等待10分钟" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="212" y="653" width="89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-61" value="状态 = in progress&#xa;转码状态 = transcode failed" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="761" width="208" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-62" value="状态 = Live&#xa;转码状态 = transcode succeed" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="278" y="761" width="224" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-63" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="250" y="889" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-64" value="创建内容" style="curved=1;startArrow=none;;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-57" target="5eULGLU3yvkoiwpLcLq7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-65" value="发起转码请求" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-58" target="5eULGLU3yvkoiwpLcLq7-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-66" value="等待转码结果" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-59" target="5eULGLU3yvkoiwpLcLq7-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-67" value="转码失败" style="curved=1;startArrow=none;;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-60" target="5eULGLU3yvkoiwpLcLq7-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-68" value="转码成功" style="curved=1;startArrow=none;;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-60" target="5eULGLU3yvkoiwpLcLq7-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-69" value="结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=-0.03;entryY=0.34;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-61" target="5eULGLU3yvkoiwpLcLq7-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5eULGLU3yvkoiwpLcLq7-70" value="结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.97;entryY=0.34;rounded=0;" edge="1" parent="1" source="5eULGLU3yvkoiwpLcLq7-62" target="5eULGLU3yvkoiwpLcLq7-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
