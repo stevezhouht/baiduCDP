@@ -7,29 +7,29 @@
         <mxCell id="nWANFf-JCWplgzI0E-6u-1" value="BD Team" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="150" height="1156" as="geometry" />
         </mxCell>
-        <mxCell id="nWANFf-JCWplgzI0E-6u-2" value="RD团队" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="nWANFf-JCWplgzI0E-6u-2" value="RD Team" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="264" y="20" width="150" height="1156" as="geometry" />
         </mxCell>
-        <mxCell id="nWANFf-JCWplgzI0E-6u-3" value="QA团队" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="nWANFf-JCWplgzI0E-6u-3" value="QA Team" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="473" y="20" width="150" height="1156" as="geometry" />
         </mxCell>
         <mxCell id="nWANFf-JCWplgzI0E-6u-4" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="229" width="585" height="852" as="geometry" />
         </mxCell>
-        <mxCell id="nWANFf-JCWplgzI0E-6u-5" value="[核对通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="nWANFf-JCWplgzI0E-6u-4">
+        <mxCell id="nWANFf-JCWplgzI0E-6u-5" value="Check passed" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="nWANFf-JCWplgzI0E-6u-4">
           <mxGeometry x="30" width="555" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWANFf-JCWplgzI0E-6u-6" value="[核对不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="nWANFf-JCWplgzI0E-6u-4">
           <mxGeometry y="759" width="585" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="nWANFf-JCWplgzI0E-6u-7" value="发邮件，提供CP feed url" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="nWANFf-JCWplgzI0E-6u-1" target="nWANFf-JCWplgzI0E-6u-2">
+        <mxCell id="nWANFf-JCWplgzI0E-6u-7" value="Send email with the CP feed url" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="nWANFf-JCWplgzI0E-6u-1" target="nWANFf-JCWplgzI0E-6u-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="226" y="127" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWANFf-JCWplgzI0E-6u-8" value="核对feed url返回的字段是否完整" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="nWANFf-JCWplgzI0E-6u-2" target="nWANFf-JCWplgzI0E-6u-2">
+        <mxCell id="nWANFf-JCWplgzI0E-6u-8" value="Check that the fields returned by the feed URL are complete" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="nWANFf-JCWplgzI0E-6u-2" target="nWANFf-JCWplgzI0E-6u-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="179" />
