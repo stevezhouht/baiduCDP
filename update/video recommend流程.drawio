@@ -16,6 +16,19 @@
         <mxCell id="TEBb85Tj5FxcyDQN6sWw-15" value="Filter by local playable sources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="91.5" y="341" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vusLxegBLUPvO0g1GqJQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TEBb85Tj5FxcyDQN6sWw-16" target="TEBb85Tj5FxcyDQN6sWw-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="432" />
+              <mxPoint x="80" y="887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vusLxegBLUPvO0g1GqJQ-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vusLxegBLUPvO0g1GqJQ-6">
+          <mxGeometry x="-0.3453" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TEBb85Tj5FxcyDQN6sWw-16" value="KG results sufficient?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="146" y="390" width="151" height="84" as="geometry" />
         </mxCell>
@@ -36,6 +49,11 @@
               <mxPoint x="200" y="691" />
               <mxPoint x="200" y="887" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vusLxegBLUPvO0g1GqJQ-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vusLxegBLUPvO0g1GqJQ-4">
+          <mxGeometry x="-0.0637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEBb85Tj5FxcyDQN6sWw-19" value="Results sufficient?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
