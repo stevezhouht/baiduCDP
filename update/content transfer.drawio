@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.3">
   <diagram name="第 1 页" id="SC4Ad5JtYd1S4jJcS6Bw">
-    <mxGraphModel>
+    <mxGraphModel dx="1378" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1iVRihWYdXtMzknbXpwd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1iVRihWYdXtMzknbXpwd-2" target="1iVRihWYdXtMzknbXpwd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-6" value="program to save content&amp;nbsp;&lt;div&gt;to Whale TV S3 bucket&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-4">
+          <mxGeometry x="-0.0698" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1iVRihWYdXtMzknbXpwd-2" target="1iVRihWYdXtMzknbXpwd-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-3" value="&amp;nbsp; Whale TV S3 bucket" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="292" y="110" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-7" value="Whale TV feed parser" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
