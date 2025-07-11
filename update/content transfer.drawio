@@ -36,6 +36,18 @@
         <mxCell id="1iVRihWYdXtMzknbXpwd-10" value="CP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-11" value="Whale TV Media Convert task" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-12" value="Whale TV advertisement ingestion task" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="175" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-13" value="Whale TV content metadata storage" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-14" value="&amp;nbsp; Whale TV CDN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="148" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
