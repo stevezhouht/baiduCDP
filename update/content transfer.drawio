@@ -27,6 +27,14 @@
         <mxCell id="1iVRihWYdXtMzknbXpwd-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="40" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1iVRihWYdXtMzknbXpwd-3" target="1iVRihWYdXtMzknbXpwd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-33" value="distribute" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-32">
+          <mxGeometry x="0.1216" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-3" value="&amp;nbsp; Whale TV S3 bucket" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="292" y="110" width="148" height="60" as="geometry" />
         </mxCell>
@@ -75,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-14" value="&amp;nbsp; Whale TV CDN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="925" y="120" width="148" height="60" as="geometry" />
+          <mxGeometry x="925" y="110" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-19" value="" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="949" y="284.5" width="100" height="91" as="geometry" />
