@@ -19,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1iVRihWYdXtMzknbXpwd-9" value="provide feed with&amp;nbsp;&lt;div&gt;content relative path and file name&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-8">
+        <mxCell id="1iVRihWYdXtMzknbXpwd-9" value="provide feed with&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;content&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;relative path and file name&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-8">
           <mxGeometry x="0.4541" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -29,6 +29,19 @@
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-3" value="&amp;nbsp; Whale TV S3 bucket" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="292" y="110" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1iVRihWYdXtMzknbXpwd-7" target="1iVRihWYdXtMzknbXpwd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-16">
+          <mxGeometry x="-0.0615" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iVRihWYdXtMzknbXpwd-18" value="append Whale TV CDN&amp;nbsp;&lt;div&gt;root path for content url&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iVRihWYdXtMzknbXpwd-16">
+          <mxGeometry x="-0.0829" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-7" value="Whale TV feed parser" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="150" height="40" as="geometry" />
@@ -43,7 +56,7 @@
           <mxGeometry x="570" y="175" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-13" value="Whale TV content metadata storage" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="150" height="40" as="geometry" />
+          <mxGeometry x="655" y="310" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1iVRihWYdXtMzknbXpwd-14" value="&amp;nbsp; Whale TV CDN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="880" y="120" width="148" height="60" as="geometry" />
