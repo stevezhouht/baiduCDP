@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:season="http://www.ottera.tv/rss/season/" xmlns:episode="http://www.ottera.tv/rss/episode/" version="2.0">
+  <item>
+	<id>ppzg01-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>01-Finding an identity connecting past and present</media:title>
+	<languages>en</languages>
+	<media:description>From the oracle bones that astonished the world to traditional hanfu clothing, in smart architecture and film and TV creation, China's ancient cultural heritage is being given new life.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744177751288_310.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744177751288_310.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744177709850_22.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="ppzg" number="1" title="China: Race to the Future">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744180103858_551.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="ppzg01-en" title="01-Finding an identity connecting past and present" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744177751288_310.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744177709850_22.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+    <id>ppzg01-es</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>01-En busca de una identidad</media:title>
+    <languages>es</languages>
+    <media:description>Al recorrer diversas ciudades de China, conocer distintas familias y sumergirse en sus tradiciones únicas, resulta evidente que el país experimenta un renacimiento cultural y una apreciación de las tradiciones ancestrales.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183602166_277.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183602166_277.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182198896_32.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: una carrera hacia el futuro">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/10/24/1761274849188_980.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg01-es" title="01-En busca de una identidad" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183602166_277.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182198896_32.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+   </item>
+  <item>
+    <id>ppzg02-en</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>02-Embracing Change to Create Economic Benefits</media:title>
+    <languages>en</languages>
+    <media:description>From lightweight running shoes to cool new energy vehicles and some of the most advanced engineering equipment in the world, "Made in China" is creating huge waves across the globe.</media:description>
+    <media:group>Premium</media:group>
+    <media:category>English-Premium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178542286_619.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178542286_619.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744177989379_588.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: Race to the Future">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744180103858_551.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg02-en" title="02-Embracing Change to Create Economic Benefits" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178542286_619.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744177989379_588.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+   </item>	
+  <item>
+    <id>ppzg02-es</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>02-Abrazando el cambio</media:title>
+    <languages>es</languages>
+    <media:description>En China hay un dicho muy interesante que dice: “Tian Shi Di Li Ren He”, que significa estar en el momento adecuado, en el lugar adecuado, con las personas adecuadas.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183628029_563.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183628029_563.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182299462_100.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: una carrera hacia el futuro">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/10/24/1761274849188_980.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg01-es" title="02-Abrazando el cambio" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183628029_563.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182299462_100.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+  </item>
+  <item>
+	<id>ppzg03-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>03-Breaking Barriers，Creating Success</media:title>
+	<languages>en</languages>
+	<media:description>In cutting-edge fields such as aerospace, chips and artificial intelligence, they are, with their firm belief, outstanding talent and great intelligence, writing stories of innovative success.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178548453_480.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178548453_480.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744178164679_285.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="ppzg" number="1" title="China: Race to the Future">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744180103858_551.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="ppzg03-en" title="03-Breaking Barriers，Creating Success" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744178548453_480.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744178164679_285.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+    <id>ppzg03-es</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>03-Derribando barreras</media:title>
+    <languages>es</languages>
+    <media:description>La Universidad Politécnica del Noroeste ha jugado un papel clave al aportar diseñadores principales y líderes a estos proyectos esenciales para el avance tecnológico del país.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183680351_918.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183680351_918.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182338106_36.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: una carrera hacia el futuro">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/10/24/1761274849188_980.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg03-es" title="03-Derribando barreras" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183680351_918.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182338106_36.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+  </item>
+  <item>
+	<id>ppzg04-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>04-Guaranteeing the benefits of progress</media:title>
+	<languages>en</languages>
+	<media:description>Follow Beijing International Film Festival Award-winner Gasthoori Manickam on an extraordinary journey. She discovers how Chinese wisdom and resolve are protecting nature and helping the poorest members of society.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179903428_453.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179903428_453.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744179271967_571.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="ppzg" number="1" title="China: Race to the Future">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744180103858_551.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="ppzg04-en" title="04-Guaranteeing the benefits of progress" number="4" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179903428_453.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744179271967_571.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+    <id>ppzg04-es</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>04-Encontrando el equilibrio</media:title>
+    <languages>es</languages>
+    <media:description>Para un país con una historia de 5.000 años, 75 almanaques es solo un breve instante.  Pero ha sido tiempo suficiente para que ocurran cambios monumentales.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183696252_870.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183696252_870.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182403074_947.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: una carrera hacia el futuro">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/10/24/1761274849188_980.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg04-es" title="04-Encontrando el equilibrio" number="4" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183696252_870.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182403074_947.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+  </item>
+  <item>
+	<id>ppzg05-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>05-Creating Opportunities for the World</media:title>
+	<languages>en</languages>
+	<media:description>What is it that makes China a land of opportunity for foreign investors?</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179898516_75.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179898516_75.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744179257759_562.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="ppzg" number="1" title="China: Race to the Future">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744180103858_551.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="ppzg05-en" title="05-Creating Opportunities for the World" number="5" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744179898516_75.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744179257759_562.mp4" mimeType="video/mp4" duration="2703" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+    <id>ppzg05-es</id>
+    <contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+    <media:title>05-Oportunidades globales</media:title>
+    <languages>es</languages>
+    <media:description>Cruzando montañas y mares, cada vez más empresarios extranjeros están emprendiendo su camino rumbo a China en busca de sus sueños de emprendimiento.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+    <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183711722_256.jpg" width="1920" height="1080" />
+    <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183711722_256.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182403074_947.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+    <media:tags>Documentary,Society</media:tags>
+    <media:restriction relationship="allow" type="country">WW</media:restriction>
+    <media:credit role="PRODUCER">CGTN</media:credit>
+    <regions>CN</regions>
+	<seasons>
+      <season>
+	     <season:content id="ppzg" number="1" title="China: una carrera hacia el futuro">
+		    <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/10/24/1761274849188_980.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+			      <episode:content id="ppzg05-es" title="05-Oportunidades globales" number="5" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/9/1744183711722_256.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/9/1744182403074_947.mp4" mimeType="video/mp4" duration="2700" lang="es" />
+			   </episode>
+			</episodes>
+		  </season:content>
+		</season>
+	</seasons>
+  </item>
+  <item>
+	<id>xgzgysj-fr01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>À la recherche de la Chine ancienne:le Jade-01</media:title>
+	<languages>fr</languages>
+	<media:description>À travers les ères de la civilisation chinoise, le jade a toujours captivé par sa beauté mystique.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>Français-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459991569_588.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459991569_588.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459792875_163.mp4" mimeType="video/mp4" duration="2431" lang="fr" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="À la recherche de la Chine ancienne:le Jade">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742522061085_922.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-fr01" title="À la recherche de la Chine ancienne:le Jade-01" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459991569_588.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459792875_163.mp4" mimeType="video/mp4" duration="2431" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xgzgysj-fr02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>À la recherche de la Chine ancienne:le Jade-02</media:title>
+	<languages>fr</languages>
+	<media:description>À travers les ères de la civilisation chinoise, le jade a toujours captivé par sa beauté mystique.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>Français-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459994932_607.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459994932_607.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459787394_585.mp4" mimeType="video/mp4" duration="2425" lang="fr" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="À la recherche de la Chine ancienne:le Jade">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742522061085_922.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-fr02" title="À la recherche de la Chine ancienne:le Jade-02" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459994932_607.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459787394_585.mp4" mimeType="video/mp4" duration="2425" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xgzgysj-en01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Discover Ancient Jade-01</media:title>
+	<languages>en</languages>
+	<media:description>Jade is beautiful, elegant, gentle and delicate.  It conveys the rich spiritual connotations of ancient Chinese and cultural history throughout the ages.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>English-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538389210_898.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538389210_898.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742450163306_628.mp4" mimeType="video/mp4" duration="2431" lang="en" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Discover Ancient Jade">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465012134_872.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-en01" title="Discover Ancient Jade-01" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538389210_898.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742450163306_628.mp4" mimeType="video/mp4" duration="2431" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xgzgysj-en02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Discover Ancient Jade-02</media:title>
+	<languages>en</languages>
+	<media:description>In the ancient Orient, the people made amazing achievements in discovering, carving, adapting and appreciating jade.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>English-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742451915717_159.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742451915717_159.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742450174239_232.mp4" mimeType="video/mp4" duration="2425" lang="en" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Discover Ancient Jade">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465012134_872.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-en02" title="Discover Ancient Jade-02" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742451915717_159.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742450174239_232.mp4" mimeType="video/mp4" duration="2425" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xgzgysj-es01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Descubriendo el Jade Antiguo-01</media:title>
+	<languages>es</languages>
+	<media:description>El jade es hermoso, elegante, suave y delicado.  Transmite las ricas connotaciones espirituales de la antigua China y la historia cultural a lo largo de los tiempos.</media:description>
+	<media:group>Cultura</media:group>
+	<media:category>Español-Cultura</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458781628_187.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458781628_187.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742458584097_759.mp4" mimeType="video/mp4" duration="2431" lang="es" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Descubriendo el Jade Antiguo">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465359325_676.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-es01" title="Descubriendo el Jade Antiguo-01" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458781628_187.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742458584097_759.mp4" mimeType="video/mp4" duration="2431" lang="es" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xgzgysj-es02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Descubriendo el Jade Antiguo-02</media:title>
+	<languages>es</languages>
+	<media:description>En el antiguo Oriente, las personas lograron increíbles avances en el descubrimiento, tallado, adaptación y apreciación del jade.</media:description>
+	<media:group>Cultura</media:group>
+	<media:category>Español-Cultura</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458800296_266.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458800296_266.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742458576093_862.mp4" mimeType="video/mp4" duration="2425" lang="es" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Descubriendo el Jade Antiguo">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465359325_676.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-es02" title="Descubriendo el Jade Antiguo-02" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742458800296_266.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742458576093_862.mp4" mimeType="video/mp4" duration="2425" lang="es" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xgzgysj-pt01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Descubra o Jade Antigo-01</media:title>
+	<languages>pt</languages>
+	<media:description>No antigo oriente, as pessoas fizeram conquistas incríveis ao descobrir, esculpir, adaptar e apreciar o jade.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>Português-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459437694_319.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459437694_319.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459239831_857.mp4" mimeType="video/mp4" duration="2431" lang="pt" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Descubra o Jade Antigo">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465455161_702.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-pt01" title="Descubra o Jade Antigo-01" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459437694_319.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459239831_857.mp4" mimeType="video/mp4" duration="2431" lang="pt" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xgzgysj-pt02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Descubra o Jade Antigo-02</media:title>
+	<languages>pt</languages>
+	<media:description>O jade é bonito, elegante, gentil e delicado.  Ele transmite as ricas conotações espirituais e dezenas de milhares de anos de história cultural dos antigos chineses.</media:description>
+	<media:group>Culture</media:group>
+	<media:category>Português-Culture</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459449639_697.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459449639_697.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459249575_73.mp4" mimeType="video/mp4" duration="2425" lang="pt" />
+	<media:tags>Documentary,Culture</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xgzgysj" number="1" title="Descubra o Jade Antigo">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742465455161_702.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xgzgysj-pt02" title="Descubra o Jade Antigo-02" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/20/1742459449639_697.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/20/1742459249575_73.mp4" mimeType="video/mp4" duration="2425" lang="pt" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>tx-ar01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>بناء حلم مشترك بقلب واحد</media:title>
+	<languages>ar</languages>
+	<media:description>وتحكي هذه المجموعة من خريطة الطريق قصة التضامن والتعايش والتقدم المشترك لشعب الصين والجزائر في مجالات الهياكل الأساسية والثقافة والتعليم والصحة</media:description>
+	<media:group>Business</media:group>
+	<media:category>العربية-Business</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742537982740_967.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+	<media:tags>Documentary,Mutual Development,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="tx" number="1" title="رفيق الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538318426_813.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="tx-ar01" title="بناء حلم مشترك بقلب واحد" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742537982740_967.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>tx-ar02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>مشاركة العصر الجديد</media:title>
+	<languages>ar</languages>
+	<media:description>مع اتخاذ "مشاركة العصر الجديد" كموضوع، يعتمد هذه الحلقة في برنامج ((رفيق الطريق)) على التعاون العملي بين الصين والإمارات، من الشخصيات الملتزمة بتعزيز التبادل والفهم الثقافي، إلى الشباب الذين يكافحون من أجل أحلامهم، من تحفيز قوى الإنتاج الجديدة في الصين على تغيير تقنيات القيادة الذاتية في الإمارات، إلى التعاون الصيني الإماراتي الذي يعزز التحول النقدي في الإمارات، كل هذا يروي عن قرار وثقة الشعب في البلدين في السعي نحو حياة أفضل في العصر الجديد.</media:description>
+	<media:group>Business</media:group>
+	<media:category>العربية-Business</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538097105_725.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538097105_725.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742538067060_759.mp4" mimeType="video/mp4" duration="1560" lang="ar" />
+	<media:tags>Documentary,Mutual Development,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="tx" number="1" title="رفيق الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538318426_813.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="tx-ar02" title="مشاركة العصر الجديد" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538097105_725.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742538067060_759.mp4" mimeType="video/mp4" duration="1560" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>tx-ar03</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>معا لخلق المستقبل</media:title>
+	<languages>ar</languages>
+	<media:description>طريق التفاعل بين الصين والمملكة السعودية العربية، يشبه تجار الطريق الحريري، حيث كسر حدود الزمن والمسافة والثقافة، وترك أثرا تاريخيا غنيا وعميقا. في هذه الحلقة من برنامج ((رفيق الطريق)) يظهر الرؤية الجميلة لشعب البلدين للسير معا وخلق المستقبل معا. وتروي الحلقة قصة الشعب في البلدين يسير معا، ويساهم في تعاون البلدين الوثيق في مجالات الثقافة والقانون والتجارة والتكنولوجيا، مكتوبة قصة جديدة لطريق الحرير في العصر الجديد</media:description>
+	<media:group>Business</media:group>
+	<media:category>العربية-Business</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538108782_733.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538108782_733.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742538089552_534.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+	<media:tags>Documentary,Mutual Development,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="tx" number="1" title="رفيق الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538318426_813.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="tx-ar03" title="معا لخلق المستقبل" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538108782_733.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742538089552_534.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>jmzg01-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>01-Decoded: Chinese Modernization</media:title>
+	<languages>en</languages>
+	<media:description>The three-part CGTN documentary “Decoded: Chinese Modernization” turns the spotlight on the distinctive features of the path to modernization the country is taking.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745299988198_138.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745299988198_138.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292494988_425.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+	<media:tags>Documentary,Environmental,Economy</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="jmzg" number="1" title="Decoded: Chinese Modernization">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745310553986_598.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="jmzg01-en" title="01-Finding an identity connecting past and present" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745299988198_138.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292494988_425.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>jmzg02-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>02-Decoded: Chinese Modernization</media:title>
+	<languages>en</languages>
+	<media:description>The three-part CGTN documentary “Decoded: Chinese Modernization” turns the spotlight on the distinctive features of the path to modernization the country is taking.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300007566_1.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300007566_1.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292494294_460.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+	<media:tags>Documentary,Environmental,Economy</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="jmzg" number="1" title="Decoded: Chinese Modernization">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745310553986_598.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="jmzg02-en" title="02-Finding an identity connecting past and present" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300007566_1.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292494294_460.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>jmzg03-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>03-Decoded: Chinese Modernization</media:title>
+	<languages>en</languages>
+	<media:description>The three-part CGTN documentary “Decoded: Chinese Modernization” turns the spotlight on the distinctive features of the path to modernization the country is taking.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300014608_226.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300014608_226.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292510702_617.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+	<media:tags>Documentary,Environmental,Economy</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="jmzg" number="1" title="Decoded: Chinese Modernization">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745310553986_598.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="jmzg03-en" title="03-Finding an identity connecting past and present" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300014608_226.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292510702_617.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>25n25r-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>25 Years, 25 Stories</media:title>
+	<languages>en</languages>
+	<media:description>25th anniversary of Macao's return to China, we meet four people from Macao engaged in a variety of professions - from elderly care services, to law, traditional Chinese medicine, to the catering industry.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/30/1751254522188_80.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/30/1751254522188_80.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/6/26/1750926587155_153.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>txfrzl-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>The Road to Prosperity</media:title>
+	<languages>en</languages>
+	<media:description>This documentary focuses on the vivid practice of China's win-win cooperation with other B&amp;R countries in promoting high-quality development over the past decade from different perspectives.</media:description>
+	<media:group>Premium</media:group>
+	<media:category>English-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/13/1741857554876_37.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/13/1741857554876_37.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/13/1741857318426_623.mp4" mimeType="video/mp4" duration="1918" lang="en" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>txfrzl-es</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>El camino hacia la prosperidad</media:title>
+	<languages>es</languages>
+	<media:description>Este documental se centra en la vívida práctica de cooperación de beneficio mutuo de China con otros países de la iniciativa de la Franja y la Ruta en la promoción del desarrollo de alta calidad durante la última década desde diferentes perspectivas.</media:description>
+    <media:group>Prémium</media:group>
+    <media:category>Español-Prémium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/13/1741857848210_272.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/13/1741857848210_272.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/13/1741857759360_824.mp4" mimeType="video/mp4" duration="1918" lang="es" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>txfrzl-pt</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Caminho para a Prosperidade</media:title>
+	<languages>pt</languages>
+	<media:description>O documentário "Caminho para a Prosperidade" faz uma análise sistemática pela primeira vez do contexto histórico em que a iniciativa do "Cinturão e Rota" foi proposta.</media:description>
+    <media:group>Premium</media:group>
+	<media:category>Português-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/14/1741923852157_271.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/14/1741923852157_271.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/14/1741923777913_174.mp4" mimeType="video/mp4" duration="1918" lang="pt" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>txfrzl-ru</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Путь к процветанию</media:title>
+	<languages>ru</languages>
+	<media:description>Фильм представляет разные аспекты сотрудничества – от строительства инфраструктуры до создания единых правил и взаимопонимания между народами.</media:description>
+    <media:group>Premium</media:group>
+    <media:category>Русский-Premium</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/14/1741929189287_666.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/14/1741929189287_666.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/14/1741924293465_56.mp4" mimeType="video/mp4" duration="1918" lang="ru" />
+	<media:tags>Documentary,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>gbtsptx-en</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>The Sweet Smell of the Desert</media:title>
+	<languages>en</languages>
+	<media:description>At the eastern foothills of the Helan Mountains, in China’s northwestern Ningxia Hui Autonomous Region, the once desolate Gobi Desert has been transformed over generations into vibrant vineyards. This documentary tells the tale of a miraculous place where grapes grow among sand and stone.</media:description>
+	<media:group>Business</media:group>
+	<media:category>English-Business</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/26/1750929436108_608.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/30/1751262396306_397.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/13/1741857318426_623.mp4" mimeType="video/mp4" duration="1506" lang="en" />
+	<media:tags>Documentary,Agriculture,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+   </item>
+  <item>
+	<id>xwsl-ar01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>بناء حلم مشترك بقلب واحد</media:title>
+	<languages>ar</languages>
+	<media:description>وتحكي هذه المجموعة من خريطة الطريق قصة التضامن والتعايش والتقدم المشترك لشعب الصين والجزائر في مجالات الهياكل الأساسية والثقافة والتعليم والصحة</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742537982740_967.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar01" title="بناء حلم مشترك بقلب واحد" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538091424_489.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742537982740_967.mp4" mimeType="video/mp4" duration="1800" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xwsl-ar02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>دخان الطبخ في الصحراء</media:title>
+	<languages>ar</languages>
+	<media:description>ي هذه الحلقة من برنامج نكهات على الطريق سنذهب في رحلة مع المقدمان وي وسالم إلى مدينتي تشانغيه وجيوتشيوان بمقاطعة قانسو ذات التضاريس الخلابة، لنتذوق معكرونة تسوه يوي تسي بتشانغيه، ونعيش معهم تجربة الشواء في قلب الصحراء.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540111898_546.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540111898_546.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742539903659_145.mp4" mimeType="video/mp4" duration="1724" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar02" title="دخان الطبخ في الصحراء" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540111898_546.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742539903659_145.mp4" mimeType="video/mp4" duration="1724" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xwsl-ar03</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>المأدبة الليلية في شاتشو</media:title>
+	<languages>ar</languages>
+	<media:description>على الطريق)) وصلنا مع مس وي وسالم إلى دونهوانغ في مقاطعة قانسو في شمال غربي الصين التي تعتبر نقطة التقاء الماضي بالحاضر ونقطة اندماج الشرق بالغرب.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540121136_739.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540121136_739.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742539936478_821.mp4" mimeType="video/mp4" duration="1586" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar03" title="المأدبة الليلية في شاتشو" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742540121136_739.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742539936478_821.mp4" mimeType="video/mp4" duration="1586" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xwsl-ar04</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>النكهات الحلوة</media:title>
+	<languages>ar</languages>
+	<media:description>في هذه الحلقة من برنامج ((نكهات على الطريق)) سنتجه مع مس وي وسالم إلى عالم العنب منطقة توربان في شينجيانغ التي تشتهر بعنبها الحلو، وسنتعرف على الظروف الفريدة لهذه المنطقة التي جعلت العنب بحلاوة العسل، وسننهي رحلتنا متجهين إلى بازار شينجيانغ الدولي الكبير في مدينة أورومتشي لتذوق المأكولات الشهية والمنوعة للقوميات المختلفة.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542794908_37.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542794908_37.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542658490_10.mp4" mimeType="video/mp4" duration="1723" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar04" title="النكهات الحلوة" number="4" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542794908_37.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542658490_10.mp4" mimeType="video/mp4" duration="1723" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xwsl-ar05</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>ن موعدنا اليوم لتناول الطعام</media:title>
+	<languages>ar</languages>
+	<media:description>في هذه الحلقة من برنامج ((نكهات على الطريق)) سنذهب مع ميس وي وسالم إلى بحيرة سيرام الخلابة في منطقة شينجيانغ، لتذوق الفطور المحلي الخاص بقومية القازق، والتعرف على نمط حياتهم والاستماع إلى قصصهم.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542833456_830.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542833456_830.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542679495_930.mp4" mimeType="video/mp4" duration="1770" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar05" title="ن موعدنا اليوم لتناول الطعام" number="5" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542833456_830.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542679495_930.mp4" mimeType="video/mp4" duration="1770" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xwsl-ar06</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>نكهات على بعد آلاف الأميال</media:title>
+	<languages>ar</languages>
+	<media:description>طريق الحرير القديم نشأ منذ آلاف السنين وهو مزيج من من الثقافات والمأكولات من دول العالم. هذه المرة وي وسالم سيعيدان السير على طريق الحرير ويستكشفان تسع مدن تقع عليه. يا ترى ماذا ينتظرهما هناك من القصص الرائعة والمأكولات الشهية؟ تابعونا للتعرف على الجواب.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>العربية-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542845317_264.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542845317_264.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542669301_827.mp4" mimeType="video/mp4" duration="1628" lang="ar" />
+	<media:tags>Documentary,Culture,Food,Society</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwsl" number="1" title="نكهات على الطريق">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742538666816_968.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwsl-ar06" title="نكهات على بعد آلاف الأميال" number="6" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742542845317_264.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742542669301_827.mp4" mimeType="video/mp4" duration="1628" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>syh-ar01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>ديارنا – الحلقة الأولى</media:title>
+	<languages>ar</languages>
+	<media:description>على كوكب الأرض الذي نعيش عليه، تحيطنا الصحاري والبحار، ورغم الإختلاف الشاسع، لكن توجد بينها روابط كامنة.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>العربية-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549775124_841.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549775124_841.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742549445096_479.mp4" mimeType="video/mp4" duration="1461" lang="ar" />
+	<media:tags>Documentary,Nature,Environmental</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="syh" number="1" title="ديارنا – بين البحر والصحراء أجيال صامدة ومتماسكة">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742550228132_778.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="syh-ar01" title="ديارنا – الحلقة الأولى" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549775124_841.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742549445096_479.mp4" mimeType="video/mp4" duration="1461" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>syh-ar02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>ديارنا – الحلقة الثانية</media:title>
+	<languages>ar</languages>
+	<media:description>كيفية العيش والتعايش مع الصحراء والبحر في ظل التنمية البشرية والتطور السريع، قد أصبحت مسألة هذا العصر.  ستستمر الأجيال بمواجهة هذه المسألة وخط حلولها بين رمال الصحراء وأمواج البحر.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>العربية-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549780611_949.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549780611_949.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742549447942_333.mp4" mimeType="video/mp4" duration="1376" lang="ar" />
+	<media:tags>Documentary,Nature,Environmental</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="syh" number="1" title="ديارنا – بين البحر والصحراء أجيال صامدة ومتماسكة">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742550228132_778.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="syh-ar02" title="ديارنا – الحلقة الثانية" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/3/21/1742549780611_949.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/3/21/1742549447942_333.mp4" mimeType="video/mp4" duration="1376" lang="ar" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+  </item>
+  <item>
+	<id>xwdsh-fr01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Villages Visions-01 Revitalisation Champêtreau Zhejiang</media:title>
+	<languages>fr</languages>
+	<media:description>Dans chaque épisode, trois villages sont sélectionnés pour montrer comment les habitants ont transformé leurs maisons en fonction de la géographie physique du village, de la démographie, etc.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>Français-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300321021_975.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300321021_975.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292686090_684.mp4" mimeType="video/mp4" duration="1780" lang="fr" />
+	<media:tags>Documentary,Village</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwdsh" number="1" title="Villages Visions">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745310787512_122.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwdsh-fr01" title="Villages Visions-01 Revitalisation Champêtreau Zhejiang" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300321021_975.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292686090_684.mp4" mimeType="video/mp4" duration="1780" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>xwdsh-fr02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Villages Visions-02 La Quête du Bonheur au Guizhou</media:title>
+	<languages>fr</languages>
+	<media:description>Dans chaque épisode, trois villages sont sélectionnés pour montrer comment les habitants ont transformé leurs maisons en fonction de la géographie physique du village, de la démographie, etc.</media:description>
+	<media:group>Travel</media:group>
+	<media:category>Français-Travel</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300518509_389.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300518509_389.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292684394_399.mp4" mimeType="video/mp4" duration="1780" lang="fr" />
+	<media:tags>Documentary,Village</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="xwdsh" number="1" title="Villages Visions">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745310787512_122.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="xwdsh-fr02" title="Villages Visions-02 La Quête du Bonheur au Guizhou" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/4/22/1745300518509_389.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/4/22/1745292684394_399.mp4" mimeType="video/mp4" duration="1780" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>sshwfgp-fr01</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Terres d'abondance-01</media:title>
+	<languages>fr</languages>
+	<media:description>CGTN Français diffuse une série de documentaires en 4 épisodes, intitulée « Terres d'abondance (France) », qui se concentre sur 12 spécialités françaises, survivant et traversant les siècles d'industrialisation en France.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>Français-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751946161534_879.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751946161534_879.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751944655150_853.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+	<media:tags>Documentary,Society,Culture,Geography,Human Civilization</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="sshwfgp" number="1" title="Terres d'abondance">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751938826168_983.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="sshwfgp-fr01" title="Terres d'abondance-01" number="1" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751946161534_879.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751944655150_853.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>sshwfgp-fr02</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Terres d'abondance-02</media:title>
+	<languages>fr</languages>
+	<media:description>CGTN Français diffuse une série de documentaires en 4 épisodes, intitulée « Terres d'abondance (France) », qui se concentre sur 12 spécialités françaises, survivant et traversant les siècles d'industrialisation en France.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>Français-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751952831107_298.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751952831107_298.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751946525823_578.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+	<media:tags>Documentary,Society,Culture,Geography,Human Civilization</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="sshwfgp" number="1" title="Terres d'abondance">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751938826168_983.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="sshwfgp-fr02" title="Terres d'abondance-02" number="2" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751952831107_298.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751946525823_578.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>sshwfgp-fr03</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Terres d'abondance-03</media:title>
+	<languages>fr</languages>
+	<media:description>CGTN Français diffuse une série de documentaires en 4 épisodes, intitulée « Terres d'abondance (France) », qui se concentre sur 12 spécialités françaises, survivant et traversant les siècles d'industrialisation en France.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>Français-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953607046_407.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953607046_407.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751953082572_573.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+	<media:tags>Documentary,Society,Culture,Geography,Human Civilization</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="sshwfgp" number="1" title="Terres d'abondance">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751938826168_983.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="sshwfgp-fr03" title="Terres d'abondance-03" number="3" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953607046_407.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751953082572_573.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+  <item>
+	<id>sshwfgp-fr04</id>
+	<contentType>video</contentType>
+	<media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	<media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	<media:title>Terres d'abondance-04</media:title>
+	<languages>fr</languages>
+	<media:description>CGTN Français diffuse une série de documentaires en 4 épisodes, intitulée « Terres d'abondance (France) », qui se concentre sur 12 spécialités françaises, survivant et traversant les siècles d'industrialisation en France.</media:description>
+	<media:group>Nature</media:group>
+	<media:category>Français-Nature</media:category>
+	<media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953613817_582.jpg" width="1920" height="1080" />
+	<media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953613817_582.jpg" width="1920" height="1080" />
+	<media:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751953084490_231.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+	<media:tags>Documentary,Society,Culture,Geography,Human Civilization</media:tags>
+	<media:restriction relationship="allow" type="country">WW</media:restriction>
+	<media:credit role="PRODUCER">CGTN</media:credit>
+	<regions>CN</regions>
+	<seasons>
+	  <season>
+		 <season:content id="sshwfgp" number="1" title="Terres d'abondance">
+			<season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751938826168_983.jpg" width="1920" height="1080" />
+			<episodes>
+			   <episode>
+				  <episode:content id="sshwfgp-fr04" title="Terres d'abondance-04" number="4" />
+				  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/7/8/1751953613817_582.jpg" width="1920" height="1080" />
+				  <episode:content url="https://gctvcms.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/7/8/1751953084490_231.mp4" mimeType="video/mp4" duration="1800" lang="fr" />
+			   </episode>
+			</episodes>
+		 </season:content>
+	   </season>
+	</seasons>
+   </item>
+</rss>
