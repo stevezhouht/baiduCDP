@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Jetski Master</title>
+    <description>Ride the waves in Jetski Master, where you race against time on a powerful jetski. Maneuver through water obstacles, push your speed to the limit, and aim for victory in this thrilling aquatic race.</description>
+    <language>en</language>
+
+    <item>
+      <id>com.omshyapps.jetskimaster</id>
+      <title>Jetski Master</title>
+      <languages>en</languages>
+      <description>Ride the waves in Jetski Master, where you race against time on a powerful jetski. Maneuver through water obstacles, push your speed to the limit, and aim for victory in this thrilling aquatic race.</description>
+      <genre>ACT</genre>
+      <icon url="http://example.org/cdn/thumbs/42/lkmfaAAmB.jpg" width="1920" height="1080"/>
+      <poster url="http://example.org/cdn/thumbs/42/lkmfaAAmB.jpg" width="1920" height="1080"/>
+      <video url="https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.mp4" mimeType="video/mp4" duration="185"/> [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/jetski_master/"/>
+
+      <media:company>OmshyApps</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+
+    </item>
+  </channel>
+</rss>
