@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>WhaleTv</title>
+    <description>WhaleTv Gaming portal</description>
+    <language>en</language>
+    <item>
+      <id>com.omshyapps.jetskimaster</id>
+      <title>Jetski Master</title>
+      <languages>en</languages>
+      <description>Ride the waves in Jetski Master, where you race against time on a powerful jetski. Maneuver through water obstacles, push your speed to the limit, and aim for victory in this thrilling aquatic race.</description>
+      <genre>ACT</genre>
+      <icon url="https://data.bambagames.com/jetski_master/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/jetski_master/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/jetski_master/video.mp4" mimeType="video/mp4" duration="185" />
+[cite: 91, 94, 95, 99] 
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/jetski_master/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.poppigo</id>
+      <title>Poppi Go</title>
+      <languages>en</languages>
+      <description>Bounce into fun with Poppi Go, where a playful popcorn character leaps from salt shaker to salt shaker. Avoid falling, dodge tricky obstacles, and keep jumping to reach the highest score in this tasty adventure.</description>
+      <genre>ACT</genre>
+      <icon url="https://data.bambagames.com/poppi_go/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/poppi_go/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/poppi_go/video.mp4" mimeType="video/mp4" duration="185" />
+[cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/poppi_go/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.croccyhook</id>
+      <title>Croccy Hook</title>
+      <languages>en</languages>
+      <description>Dive into Croccy Hook, where your crocodile casts a hook to snatch treasures from the riverbed. Time each throw, pull up valuable items, and aim for the best score in this addictive underwater challenge.</description>
+      <genre>ACT</genre>
+      <icon url="https://data.bambagames.com/croccy_hook/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/croccy_hook/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/croccy_hook/video.mp4" mimeType="video/mp4" duration="185" />
+[cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/croccy_hook/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.boxiescape</id>
+      <title>Boxi Escape</title>
+      <languages>en</languages>
+      <description>Blast off in Boxi Escape, where your box-shaped hero rides a missile through space. Dodge alien spaceships, avoid obstacles, and push for the highest score in this thrilling intergalactic adventure.</description>
+      <genre>ACT</genre>
+      <icon url="https://data.bambagames.com/boxi_escape/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/boxi_escape/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/boxi_escape/video.mp4" mimeType="video/mp4" duration="185" />
+[cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/boxi_escape/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.anubrix</id>
+      <title>Anubrix</title>
+      <languages>en</languages>
+      <description>Step into the ruins with Anubrix, a Tetris-style puzzle set in an ancient world. Drop and align falling blocks among mystical temples, clear lines, and keep the board from filling up in this thrilling historic challenge.</description>
+      <genre>ACT</genre>
+      <icon url="https://data.bambagames.com/anubrix/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/anubrix/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/anubrix/video.mp4" mimeType="video/mp4" duration="185" />
+[cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/anubrix/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.twentyonemaster</id>
+      <title>21 Master</title>
+      <languages>en</languages>
+      <description>Chase perfect hands in 21 Master, adding cards strategically to hit exactly twentyone and beat the dealer.</description>
+      <genre>CAR</genre>
+      <icon url="https://data.bambagames.com/twenty_one_master/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/twenty_one_master/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/twenty_one_master/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/twenty_one_master/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.kicktrick</id>
+      <title>Kick Trick</title>
+      <languages>en</languages>
+      <description>Show off your skills in Kick Trick, where every shot is a chance to impress. Bend the ball around walls, aim for the corners, and rack up goals with stylish kicks.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/kick_trick/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/kick_trick/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/kick_trick/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/kick_trick/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.veggiesamurai</id>
+      <title>Veggie Samurai</title>
+      <languages>en</languages>
+      <description>Slice through fresh veggies in Veggie Samurai, dashing across the board with swift cuts. Chain combos, avoid hazards, and master your blade in this tasty action game.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/veggie_samurai/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/veggie_samurai/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/veggie_samurai/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/veggie_samurai/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.freekickshootout</id>
+      <title>Freekick Shootout</title>
+      <languages>en</languages>
+      <description>Face the keeper in Freekick Shootout, lining up shots from the edge of the box. Curve the ball, pick corners, and score clutch goals.</description>
+      <genre>SPO</genre>
+      <icon url="https://data.bambagames.com/freekick_shootout/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/freekick_shootout/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/freekick_shootout/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/freekick_shootout/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.coralmemory</id>
+      <title>Coral Memory</title>
+      <languages>en</languages>
+      <description>Test your skills in Coral Memory, the classic card-matching game set beneath the sea. Flip cards, match underwater creatures, and train your memory in this colorful and fun ocean challenge.</description>
+      <genre>CAR</genre>
+      <icon url="https://data.bambagames.com/coral_memory/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/coral_memory/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/coral_memory/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/coral_memory/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.astrobotbounce</id>
+      <title>Astro Bot Bounce</title>
+      <languages>en</languages>
+      <description>Launch balls back into the sky in Astro Bot Bounce, using your robot to hit glowing spheres as they fall.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/astro_bot_bounce/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/astro_bot_bounce/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/astro_bot_bounce/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/astro_bot_bounce/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.bladelegend</id>
+      <title>Blade Legend</title>
+      <languages>en</languages>
+      <description>Survive deadly duels in Blade Legend, dodging huge blades and outlasting your opponent in the arena.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/blade_legend/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/blade_legend/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/blade_legend/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/blade_legend/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.hockeyrush</id>
+      <title>Hockey Rush</title>
+      <languages>en</languages>
+      <description>Hit the puck hard in Hockey Rush, using your paddle to score on the opposing goal again and again.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/hockey_rush/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/hockey_rush/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/hockey_rush/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/hockey_rush/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.neonbot</id>
+      <title>Neon Bot</title>
+      <languages>en</languages>
+      <description>Guide a glowing robot in Neon Bot through obstaclefilled paths, dodging hazards and pushing for a high score.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/neon_bot/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/neon_bot/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/neon_bot/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/neon_bot/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.tetrisaqua</id>
+      <title>Tetris Aqua</title>
+      <languages>en</languages>
+      <description>Play underwater Tetris Aqua, rotating blocks beneath the waves to complete lines and clear the board.</description>
+      <genre>ADV</genre>
+      <icon url="https://data.bambagames.com/tetris_aqua/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/tetris_aqua/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/tetris_aqua/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/tetris_aqua/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.orcaattack</id>
+      <title>Orca Attack</title>
+      <languages>en</languages>
+      <description>Swim with Orca Attack, steering a powerful orca past obstacles while firing at evil sea creatures.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/orca_attack/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/orca_attack/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/orca_attack/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/orca_attack/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.desoline.rainbowprance</id>
+      <title>Rainbow Prance</title>
+      <languages>en</languages>
+      <description>Guide a unicorn in Rainbow Prance, jumping from cloud to cloud, gathering coins, and avoiding falls.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/rainbow_prance/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/rainbow_prance/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/rainbow_prance/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/rainbow_prance/" />
+      <media:company>Desoline</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.leafescape</id>
+      <title>Leaf Escape</title>
+      <languages>en</languages>
+      <description>Glide upward on a leaf in Leaf Escape, drifting past obstacles and trying not to crash.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/leaf_escape/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/leaf_escape/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/leaf_escape/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/leaf_escape/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.oceansplash</id>
+      <title>Ocean Splash</title>
+      <languages>en</languages>
+      <description>Match four samecolored pieces in Ocean Splash before the sea board fills completely.</description>
+      <genre>ADV</genre>
+      <icon url="https://data.bambagames.com/ocean_splash/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/ocean_splash/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/ocean_splash/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/ocean_splash/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.diamondpicker</id>
+      <title>Diamond Picker</title>
+      <languages>en</languages>
+      <description>Mine deep tunnels in Diamond Picker 2025, extracting sparkling diamonds while avoiding rocks and hazards underground.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/diamond_picker_2025/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/diamond_picker_2025/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/diamond_picker_2025/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/diamond_picker_2025/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.gosushimi</id>
+      <title>Go Sushimi</title>
+      <languages>en</languages>
+      <description>Hop across platforms as a lively sushi piece in Go Sushimi, collecting coins and avoiding falls.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/go_sushimi/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/go_sushimi/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/go_sushimi/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/go_sushimi/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.waveridertwo</id>
+      <title>Wave Rider 2</title>
+      <languages>en</languages>
+      <description>Surf big waves in Wave Rider 2, steering your board through buoys and jumps across three worlds.</description>
+      <genre>RAC</genre>
+      <icon url="https://data.bambagames.com/wave_rider_2/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/wave_rider_2/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/wave_rider_2/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/wave_rider_2/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.spidermaze</id>
+      <title>Spider Maze</title>
+      <languages>en</languages>
+      <description>Crawl through Spider Maze, moving along walls and avoiding traps while searching for the exit.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/spider_maze/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/spider_maze/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/spider_maze/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/spider_maze/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.catchthesushi</id>
+      <title>Catch The Sushi</title>
+      <languages>en</languages>
+      <description>Grab fastmoving sushi pieces in Catch The Sushi, stacking them correctly before the belt empties.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/catch_the_sushi/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/catch_the_sushi/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/catch_the_sushi/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/catch_the_sushi/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.runchilirun</id>
+      <title>Run Chili Run</title>
+      <languages>en</languages>
+      <description>Dash through hot kitchens in Run Chili Run, guiding a chili pepper around pots and pans while collecting points.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/run_chili_run/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/run_chili_run/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/run_chili_run/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/run_chili_run/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.chiliflip</id>
+      <title>Chili Flip</title>
+      <languages>en</languages>
+      <description>Follow the heat in Chili Flip, tracking a spicy card among three as they flip and swap places.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/chili_flip/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/chili_flip/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/chili_flip/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/chili_flip/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.leojump</id>
+      <title>Leo Jump</title>
+      <languages>en</languages>
+      <description>Guide Leo the lion in Leo Jump, hopping between platforms, collecting shiny coins, and avoiding dangerous obstacles.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/leo_jump/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/leo_jump/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/leo_jump/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/leo_jump/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.snakecatch</id>
+      <title>Snake Catch</title>
+      <languages>en</languages>
+      <description>Guide a neon snake in Snake Catch, eating pellets to grow longer while avoiding your own tail.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/snake_catch/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/snake_catch/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/snake_catch/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/snake_catch/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.bowlingmaster</id>
+      <title>Bowling Master</title>
+      <languages>en</languages>
+      <description>Show your skills in Bowling Master, carefully aiming throws to score strikes and spares in every frame.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/bowling_master/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/bowling_master/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/bowling_master/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/bowling_master/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.mystistardust</id>
+      <title>Mysti Stardust</title>
+      <languages>en</languages>
+      <description>Leap between clouds with a unicorn in Mysti Stardust, collecting shiny coins and avoiding falls through dreamy skies.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/mysti_stardust/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/mysti_stardust/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/mysti_stardust/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/mysti_stardust/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.junglegrab</id>
+      <title>Jungle Grab</title>
+      <languages>en</languages>
+      <description>Help a monkey toss bananas into the right spots in Jungle Grab, aiming carefully to land each throw.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/jungle_grab/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/jungle_grab/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/jungle_grab/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/jungle_grab/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.treasurecatch</id>
+      <title>Treasure Catch</title>
+      <languages>en</languages>
+      <description>Dive for riches in Treasure Catch, collecting diamonds and gold from the ocean floor with a bold pirate.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/treasure_catch/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/treasure_catch/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/treasure_catch/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/treasure_catch/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.tankbot</id>
+      <title>Tank Bot</title>
+      <languages>en</languages>
+      <description>Control a robotic tank in Tank Bot, dodging bombs from jets overhead while staying on the move.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/tank_bot/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/tank_bot/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/tank_bot/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/tank_bot/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.musicalmatch</id>
+      <title>Musical Match</title>
+      <languages>en</languages>
+      <description>Pair musical icons in Musical Match, swapping tiles to align melodies and clear the board.</description>
+      <genre>PUZ</genre>
+      <icon url="https://data.bambagames.com/musical_match/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/musical_match/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/musical_match/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/musical_match/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.pegasusswing</id>
+      <title>Pegasus Swing</title>
+      <languages>en</languages>
+      <description>Soar with Pegasus Swing, guiding a winged horse upward between obstacles while collecting shimmering orbs.</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/pegasus_swing/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/pegasus_swing/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/pegasus_swing/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/pegasus_swing/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.aquastrike</id>
+      <title>Aqua Strike</title>
+      <languages>en</languages>
+      <description>Attack from below in Aqua Strike, firing torpedoes at ships while weaving through underwater mines.</description>
+      <genre>ADV</genre>
+      <icon url="https://data.bambagames.com/aqua_strike/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/aqua_strike/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/aqua_strike/video.mp4" mimeType="video/mp4" duration="185" />
+ [cite: 91, 94, 95, 99]
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/aqua_strike/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+    <item>
+      <id>com.omshyapps.applehop</id>
+      <title>Apple Hop</title>
+      <languages>en</languages>
+      <description>Get ready to bounce in Apple Hop! Jump from platform to platform, collect sparkling coins, and dodge sharp rocks that stand in your way. Precision and timing are key—one wrong hop and it’s game over!</description>
+      <genre>ARC</genre>
+      <icon url="https://data.bambagames.com/apple_hop/tv_banner.jpg" width="1920" height="1080" />
+      <poster url="https://data.bambagames.com/apple_hop/poster.jpg" width="1920" height="1080" />
+      <video url="https://data.bambagames.com/apple_hop/video.mp4" mimeType="video/mp4" duration="185" />
+      <region>Worldwide</region>
+      <deeplink url="https://data.bambagames.com/apple_hop/" />
+      <media:company>Omshy</media:company>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+    </item>
+  </channel>
+</rss>
