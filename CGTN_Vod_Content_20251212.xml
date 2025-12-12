@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:season="http://www.ottera.tv/rss/season/" xmlns:episode="http://www.ottera.tv/rss/episode/" version="2.0">  
+  <item>
+	  <id>wmdty03-es</id>
+	  <contentType>video</contentType>
+	  <media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+	  <media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+	  <media:title>Flor entre las nubes</media:title>
+	  <languages>es</languages>
+	  <media:description>En la aldea Tianba, David conoció a varios residentes locales y aprendió sobre la cultura tradicional de la etnia qiang, desde el bordado hasta la música y la danza, pasando por el espíritu emprendedor que les caracteriza.</media:description>
+	  <media:group>Turismo</media:group>
+	  <media:category>Español-Turismo</media:category>
+	  <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2024/9/14/1726300081206_727.jpg" width="1920" height="1080" />
+	  <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2024/9/14/1726300081206_727.jpg" width="1920" height="1080" />
+	  <media:content url="https://gctvvideo.cctv.cn/cms/2024-06-26/OTT_850k_791c8b54b72a4285a0f5d821b43b8b9f-1719390772254_448-0.mp4" mimeType="video/mp4" duration="1785" lang="es" />
+	  <media:tags>Documentary,Travel,Rural Development</media:tags>
+	  <media:restriction relationship="allow" type="country">WW</media:restriction>
+	  <media:credit role="PRODUCER">CGTN</media:credit>
+	  <regions>CN</regions>
+	  <seasons>
+		  <season>
+			  <season:content id="wmdty-es" number="1" title="Jovenes Latinoamericanos en la China Rural">
+				  <season:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2024/9/14/1726300540515_638.jpg" width="1920" height="1080" />
+				  <season:description>Los jóvenes de América Latina pasaron más de medio mes en zonas rurales chinas.  Han conocido la resiliencia y el entusiasmo de las personas que viven en esta tierra mientras construyen su patria, y han sido testigos del apasionante proceso de revitalización rural que está teniendo lugar en China.</season:description>
+				  <season:tags>Documentary,Travel,Rural Development</season:tags>
+				  <episodes>
+					  <episode>
+						  <episode:content id="wmdty03-es" title="Flor entre las nubes" number="3" />
+						  <episode:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2024/9/14/1726300081206_727.jpg" width="1920" height="1080" />
+						  <episode:content url="https://gctvvideo.cctv.cn/cms/2024-06-26/OTT_850k_791c8b54b72a4285a0f5d821b43b8b9f-1719390772254_448-0.mp4" mimeType="video/mp4" duration="1785" lang="es" />
+					  </episode>
+				  </episodes>
+			  </season:content>
+		  </season>
+	  </seasons>
+  </item>
+</rss>
