@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss>
+  <channel>
+    <item>
+      <id>cute2048.gameflix.tv</id>
+      <title>Cute 2048</title>
+      <description>Enjoy this cute 2048 version! Use arrow keys to move the tiles. When two identical animals touch, they’ll merge into one.</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/2048_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/2048_1920x1080px" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/2048.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/2048/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>car_rush.gameflix.tv</id>
+      <title>Car Rush</title>
+      <description>Start your engine and ride through three different worlds with increasing difficulty. Finish all the laps in time by avoiding obstacles!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/car_rush_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/car_rush_1920x1080px" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Car-Rush.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/car_rush/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>duck_shooter.gameflix.tv</id>
+      <title>Duck Shooter</title>
+      <description>Don’t let the ducks fly away! Take control of the scope, aim precisely, and clear the screen to set a new high score. Fast reflexes are your best friend in this classic challenge. Are you the ultimate marksman? Start playing and find out!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/duck_shooter_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/duck_shooter_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Duck-Shooter.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/duck_shooter/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>galactic_maze.gameflix.tv</id>
+      <title>Galactic Maze</title>
+      <description>Blast off into deep space! Drive your starship as far as possible, shifting side to side to avoid obstacles. The faster you go, the higher the stakes. Can you navigate the block-filled void? Grab the controls and start your voyage today!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/galactic_maze_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/galactic_maze_1920x1080px" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Galactic-Maze.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/galactic_maze/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>goose_game.gameflix.tv</id>
+      <title>Goose Game</title>
+      <description>Will you be the first to reach the end? Roll the dice and move your pawn across a board packed with traps and surprises. Outsmart your rivals and avoid the dangers to win. Ready for a classic board game challenge? Play now and beat the rest!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/goose_game_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/goose_game_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Goose-Game.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/goose_game/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>master_checkers.gameflix.tv</id>
+      <title>Master Checkers</title>
+      <description>Enjoy a stylish version of classic Checkers! This game uses Italian rules and is perfect for a quick match. It’s simple, fun, and looks great. Can you beat your opponent and win the board? Start playing this classic challenge now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/master_checkers_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/master_checkers_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Master-Checkers.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/master_checkers/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>nugget_seeker.gameflix.tv</id>
+      <title>Nugget Seeker</title>
+      <description>Dig deep into the mine and collect as much gold as you can! Watch out for mean bullies trying to stop you. It’s a fun underground adventure for everyone. Can you find all the nuggets? Start your mining journey and play now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/nugget_seeker_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/nugget_seeker_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Nugget-Seeker.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/nugget_seeker/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>pac_rat.gameflix.tv</id>
+      <title>Pac Rat</title>
+      <description>This cute mouse seems to be starving! Eat as much cheese as you can! Watch out for the nasty cats who will chase it all over the place! </description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/pac_rat_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/pac_rat_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/PacRat.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/pac_rat/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>rowing_2_sculls.gameflix.tv</id>
+      <title>Rowing 2 Sculls</title>
+      <description>Choose your team and enter 12 tough races! Row perfectly to stay in front and finish in first place to move on. Don't let your opponents pass you. Are you ready to win? Jump in the boat and start racing today!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/rowing_2_sculls_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/rowing_2_sculls_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Rowing2Sculls.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/rowing_2_sculls/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>fruit_snake.gameflix.tv</id>
+      <title>Fruit Snake</title>
+      <description>Enjoy a colorful version of Snake! Choose Survival Mode to see how long you can last, or try Adventure Mode with 20 fun levels. It’s easy to play and very addictive. Can you beat them all? Start your snake adventure and play now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/snake_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/snake_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Snake.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/snake/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>slalom_ski.gameflix.tv</id>
+      <title>Slalom Ski</title>
+      <description>Race through gates in this exciting skiing game! Choose your character and test your skills on tough tracks. Unlock new levels to become the ultimate Ski Master. Fun for all ages! Ready to hit the slopes? Start your race now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/slalom_ski_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/slalom_ski_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Salalom-Ski.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/slalom_ski/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>snake_and_ladders.gameflix.tv</id>
+      <title>Snake and Ladders</title>
+      <description>Roll the dice and test your luck in Snakes and Ladders! Climb ladders to go up, but watch out for snakes that pull you down. 100 squares of fun, traps, and surprises. Can you reach the top first? Join the fun and play now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/snake_and_ladders_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/snake_and_ladders_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Snake-and-Ladders.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/snake_and_ladders/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>spider_solitaire.gameflix.tv</id>
+      <title>Spider Solitaire</title>
+      <description>Enjoy a stylish version of the classic Spider Solitaire! It’s clean, fun, and perfect for relaxing your mind. Organize the cards and try to clear the board. Ready for a challenge? Start playing this card favorite now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/spider_solitaire_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/spider_solitaire_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Spider-Solitaire.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/spider_solitaire/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>tictactoe.gameflix.tv</id>
+      <title>Tic Tac Toe</title>
+      <description>Play the classic 3x3 game or try the 5x5 and 7x7 versions for a bigger challenge! Play against a friend or the computer. It's simple, fun, and perfect for a quick break. Can you get four in a row? Choose your mode and play now!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/tictactoe_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/tictactoe_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Tictactoe.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/tictactoe/index.html" />
+      <region>Worldwide</region>
+    </item>
+    <item>
+      <id>watercraft.gameflix.tv</id>
+      <title>Water Craft</title>
+      <description>Start your engine and ride through three different worlds with increasing difficulty. Finish all the laps in time by avoiding obstacles!</description>
+      <languages>en</languages>
+      <company>Gameflix</company>
+      <genre>Casual</genre>
+      <ratings>
+        <rating type="PEGI">3</rating>
+        <rating type="IARC">3+</rating>
+        <rating type="ESRB">E</rating>
+        <rating type="Others">All ages</rating>
+      </ratings>
+      <icon url="https://lala.games/h5/metadata/thumbs/watercraft_320x180px.png" width="320" height="180" />
+      <poster url="https://lala.games/h5/metadata/thumbs/watercraft_1920x1080px.png" width="1920" height="1080" />
+      <video url="https://lala.games/h5/metadata/video-trailers/Watercraft-rush.mp4" mimeType="video/mp4" duration="30" />
+      <deeplink url="https://lala.games/h5/whale-tv/watercraft/index.html" />
+      <region>Worldwide</region>
+    </item>
+  </channel>
+</rss>
