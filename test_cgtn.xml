@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:season="http://www.ottera.tv/rss/season/" xmlns:episode="http://www.ottera.tv/rss/episode/" version="2.0">
+   <item>
+        <id>25n25r</id>
+        <contentType>video</contentType>
+        <media:inAppAvailableDateTime>2025-11-01T00:00:01+08:00</media:inAppAvailableDateTime>
+        <media:inAppInvalidDateTime>2055-12-31T00:00:01+08:00</media:inAppInvalidDateTime>
+        <media:title>25 Years, 25 Stories</media:title>
+        <languages>en</languages>
+        <media:description>25th anniversary of Macao's return to China, we meet four people from Macao engaged in a variety of professions - from elderly care services, to law, traditional Chinese medicine, to the catering industry.</media:description>
+        <media:group>Premium</media:group>
+        <media:category>English</media:category>
+        <media:thumbnail url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/30/1751254522188_80.jpg" width="1920" height="1080" />
+        <media:poster url="https://gctvpic.cctv.cn/photoAlbum/page/performance/img/2025/6/30/1751254522188_80.jpg" width="1920" height="1080" />
+        <media:content url="https://gctvvideo.cctv.cn/cms/vrupload/photoAlbum/page/performance/img/2025/10/27/1761532079663_899.mp4" mimeType="video/mp4" duration="1800" lang="en" />
+        <media:tags>Documentary,Society</media:tags>
+        <media:restriction relationship="allow" type="country">WW</media:restriction>
+        <media:credit role="PRODUCER">CGTN</media:credit>
+        <regions>CN</regions>
+    </item>
+</rss>
